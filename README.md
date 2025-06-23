@@ -1,4 +1,4 @@
-# xiaozhi MCP Aggregate | 小智 MCP 集合项目
+# MCP Aggregate | MCP 集合项目
 
 A powerful interface for extending AI capabilities through remote control, note, email operations, knowledge search, and more.
 
