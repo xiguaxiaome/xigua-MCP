@@ -1,0 +1,10 @@
+mcp==1.9.4
+openai==1.90.0
+opencv_python==4.10.0.84
+opencv_python_headless==4.10.0.84
+psutil==6.1.0
+pyautogui==0.9.54
+python-dotenv==1.1.0
+Requests==2.32.4
+selenium==4.33.0
+websockets==11.0.3
